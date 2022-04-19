@@ -8,7 +8,7 @@ baixo = -1;
 hvel = 0;
 vvel = 0;
 
-vel = 2;
+vel = 10;
 
 direcao = 0;
 
