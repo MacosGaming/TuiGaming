@@ -19,9 +19,6 @@ function scr_personagem_andando(){
 
 	x += hvel;
 
-
-
-
 	vvel = (baixo - cima) * vel;
 
 	if place_meeting(x, y + vvel, obj_parede){
